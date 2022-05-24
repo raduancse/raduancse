@@ -1,23 +1,16 @@
 # About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-![](https://img.shields.io/badge/Relationship-Single-red)
-![](https://img.shields.io/badge/Designation-Web%20Developer-brightgreen)
+![](https://img.shields.io/badge/lifeMoto-Explorer-brightgreen)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
 <br>
 
-I am **Md. Raduan Islam**. A CSE student having some knowledges in *Web Design and Developement Technologies*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
-
-- 😎 Name pronunciation: **Su-jon**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing funny happening in life.. 😐
+I am **Md. Raduan Islam**.
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
-[![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
-[![GitHub: raduancse](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-raduancse?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/raduan-islam/)](https://www.linkedin.com/in/raduan-islam/)
+[![GitHub: raduancse](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/raduancse)
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
