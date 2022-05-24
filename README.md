@@ -3,12 +3,6 @@
 ![](https://img.shields.io/badge/lifeMoto-Explorer-brightgreen)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
-<br>
-
-I am **Md. Raduan Islam**.
-
-<br>
-
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-raduancse?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/raduan-islam/)](https://www.linkedin.com/in/raduan-islam/)
 [![GitHub: raduancse](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/raduancse)
 
@@ -17,9 +11,9 @@ I am **Md. Raduan Islam**.
 
 - 🔭 I’m currently working on <a href="https://apcombd.com/">Apcombd</a>
 - 🌱 I’m currently learning *Javascript-ES6*
-- 🤔 I’m looking for help with *ReactJs*
+- 🤔 My next lesson to learn *ReactJs*
 - 💬 Fell free to contact [01675386216]
-- 📫 How to reach me: [Facebook](https://www.facebook.com/raduan.cse/)
+- 📫 Find social media: [Facebook](https://www.facebook.com/raduan.cse/)
 
 
 ## Skills
@@ -34,20 +28,20 @@ I am **Md. Raduan Islam**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![API Development](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 <br>
 
-**Tools I love:**
+<!-- **Tools I love:**
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) -->
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
-# Github Statistics
+<!-- # Github Statistics
 
 ![Visitor](https://komarev.com/ghpvc/?username=sujon-ahmedz&color=blueviolet&style=flat-square) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sujon-ahmed)
@@ -56,9 +50,6 @@ I am **Md. Raduan Islam**.
 ![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
 
 ![Md. Raduan Islam GitHub stats](https://github-readme-stats.vercel.app/api?username=raduancse&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=raduancse&theme=dracula)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=raduancse&theme=dracula) -->
 
 
