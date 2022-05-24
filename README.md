@@ -7,7 +7,7 @@
 
 <br>
 
-I am **Sujon Ahmed**. A CSE student having some knowledges in *Web Design and Developement Technologies*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
+I am **Md. Raduan Islam**. A CSE student having some knowledges in *Web Design and Developement Technologies*. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I am flexible, reliable, and possess excellent time-keeping skills. I am an enthusiastic, self-motivated, reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using my own initiative.
 
 - 😎 Name pronunciation: **Su-jon**
 - 😄 Pronouns: He/Him
@@ -17,7 +17,7 @@ I am **Sujon Ahmed**. A CSE student having some knowledges in *Web Design and De
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
 [![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
-[![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
+[![GitHub: raduancse](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -64,8 +64,8 @@ I am **Sujon Ahmed**. A CSE student having some knowledges in *Web Design and De
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 ![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
 
-![Sujon Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&theme=dracula)
+![Md. Raduan Islam GitHub stats](https://github-readme-stats.vercel.app/api?username=raduancse&show_icons=true&theme=dracula)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=raduancse&theme=dracula)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
