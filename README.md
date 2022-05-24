@@ -1,7 +1,7 @@
 # About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
 
 ![](https://img.shields.io/badge/lifeMoto-Explorer-brightgreen)
-<!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
+![](https://img.shields.io/badge/Job-Looking-_.svg)
 
 <br>
 
@@ -15,11 +15,11 @@ I am **Md. Raduan Islam**.
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on <a href="https://github.com/Sujon-Ahmed/jesco">Jesco</a>
-- 🌱 I’m currently learning *Laravel*
+- 🔭 I’m currently working on <a href="https://apcombd.com/">Apcombd</a>
+- 🌱 I’m currently learning *Javascript-ES6*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
-- 🤔 I’m looking for help with *LARAVEL*
-- 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
+- 🤔 I’m looking for help with *ReactJs*
+- 💬 Ask me about anything at [whatsapp](01675386216)
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
 
 
