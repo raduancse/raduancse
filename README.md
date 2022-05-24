@@ -1,7 +1,7 @@
 # About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
 
 ![](https://img.shields.io/badge/lifeMoto-Explorer-brightgreen)
-![](https://img.shields.io/badge/Job-Looking-_.svg)
+<!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
 
 <br>
 
@@ -17,10 +17,9 @@ I am **Md. Raduan Islam**.
 
 - 🔭 I’m currently working on <a href="https://apcombd.com/">Apcombd</a>
 - 🌱 I’m currently learning *Javascript-ES6*
-- 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *ReactJs*
-- 💬 Ask me about anything at [whatsapp](01675386216)
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
+- 💬 Fell free to contact [01675386216]
+- 📫 How to reach me: [Facebook](https://www.facebook.com/raduan.cse/)
 
 
 ## Skills
@@ -29,13 +28,13 @@ I am **Md. Raduan Islam**.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![API Development](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br>
 
@@ -44,7 +43,6 @@ I am **Md. Raduan Islam**.
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 <br>
 <br>
