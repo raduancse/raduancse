@@ -1,4 +1,4 @@
-# About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
+# About Me 👨‍💻
 
 ![](https://img.shields.io/badge/lifeMoto-Explorer-brightgreen)
 <!-- ![](https://img.shields.io/badge/Job-Looking-_.svg) -->
@@ -6,7 +6,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-raduancse?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/raduan-islam/)](https://www.linkedin.com/in/raduan-islam/)
 [![GitHub: raduancse](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/raduancse)
 
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello World! 🙋‍♂️
 
 
 - 🔭 I’m currently working on <a href="https://apcombd.com/">Apcombd</a>
