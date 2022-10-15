@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning *ReactJs*
 - 🤔 My next lesson to learn *TypeScript*
 - 💬 Fell free to contact [01675386216]
-- 📫 Find social media: [Facebook](https://www.facebook.com/raduan.cse/)
+- 📫 Find social media: [Linkedin](https://www.linkedin.com/in/raduan-islam/)
 
 
 ## Skills
