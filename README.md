@@ -10,8 +10,8 @@
 
 
 - 🔭 I’m currently working on <a href="https://app.egpeek.com/">Egpeek</a>
-- 🌱 I’m currently learning *Javascript-ES6*
-- 🤔 My next lesson to learn *ReactJs*
+- 🌱 I’m currently learning *ReactJs*
+- 🤔 My next lesson to learn *TypeScript*
 - 💬 Fell free to contact [01675386216]
 - 📫 Find social media: [Facebook](https://www.facebook.com/raduan.cse/)
 
