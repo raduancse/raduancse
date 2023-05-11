@@ -9,8 +9,8 @@
 ## Hello World! 🙋‍♂️
 
 
-- 🔭 I’m currently working on <a href="https://app.egpeek.com/">Egpeek</a>
-- 🌱 I’m currently learning *ReactJs*
+- 🔭 I’m currently working on <a href=""#>GRS</a>
+- 🌱 I’m currently learning *Vue.js*
 - 🤔 My next lesson to learn *TypeScript*
 - 💬 Fell free to contact [01675386216]
 - 📫 Find social media: [Linkedin](https://www.linkedin.com/in/raduan-islam/)
