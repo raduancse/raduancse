@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on <a href="https://openimis.org/">openIMIS</a>
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *React*
 - 🤔 My next lesson to learn *TypeScript*
 - 💬 Fell free to contact [01675386216]
 - 📫 Find social media: [Linkedin](https://www.linkedin.com/in/raduan-islam/)
